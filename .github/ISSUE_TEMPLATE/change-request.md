@@ -2,7 +2,7 @@
 name: Change request
 about: Request for change or new feature
 title: "[CR]"
-labels: ''
+labels: change request
 assignees: ''
 
 ---
