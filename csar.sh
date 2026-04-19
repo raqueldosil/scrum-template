@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# Configuration Status Account Report
+# Exports Configuration Status Account Report to CSV
 
 OWNER="raqueldosil"
 REPO="scrum-template"
